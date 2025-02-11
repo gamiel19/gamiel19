@@ -1,3 +1,3 @@
 - Hi , im Gamiel19 aka Gamiel72
-Im a portuguese man/boy living in Porto
+Im a portuguese man/boy living in ...
 Currently knows how to code HTML & CSS (and some JS)
