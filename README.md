@@ -1,3 +1,3 @@
 - Hi , im Gamiel19 aka Gamiel72
 Im a portuguese man/boy living in ...
-Currently knows how to code HTML & CSS (and some JS)
+Im currently trying to build an A34 crDroid Port.
